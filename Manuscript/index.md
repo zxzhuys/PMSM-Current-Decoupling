@@ -1,1 +1,1 @@
-This is a record of manuscripts of this research
+**This folder contains every manuscript of this research from different periods.**
