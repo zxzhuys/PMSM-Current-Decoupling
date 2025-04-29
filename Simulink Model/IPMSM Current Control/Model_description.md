@@ -12,7 +12,7 @@ It also incorporates control delay elements such as current sampling delay, PWM 
 
 ## Control Architecture
 1. **Hierarchical Control**
-   - Speed loop: 10× slower than current loop
+   - Speed loop: 2× slower than current loop
    - Current loop: PI control with two decoupling modes:
      - Complex Vector Decoupling (enabled by `ActCV = 1`)
      - Feedforward Decoupling (enabled by `ActFF = 1`) 
