@@ -18,9 +18,13 @@ It also incorporates control delay elements such as current sampling delay, PWM 
      - Feedforward Decoupling (enabled by `ActFF = 1`) 
 
 2. **Parameter Tuning**
+
    PI controller parameters are designed using:
+   
    - Type I system methodology
+
    - Type II system methodology
+   
    for current loop regulation
 
 ## Simulation Guidelines
