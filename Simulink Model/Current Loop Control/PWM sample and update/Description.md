@@ -32,3 +32,8 @@ end
 
 - Carrier Ratio: 15.6
 
+- Tsi
+
+  double sampling/double updating: Tsi = 1/fsw/2, Asymmetric
+  
+  single sampling/single updating: Tsi = 1/fsw, Symmetric
